@@ -1,0 +1,14 @@
+# IntelliJ
+.idea
+*.iml
+**/null
+**/build
+**/logs
+
+#Generated
+**/*.class
+**/*.war*
+
+# Build files
+.gradle
+gradle
